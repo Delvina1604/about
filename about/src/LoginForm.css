@@ -1,0 +1,62 @@
+.login-form {
+    width: 100%;
+  }
+  
+  .social-login {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .social-login button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background: #f5f5f5;
+  }
+  
+  .linkedin {
+    background: #0077b5;
+    color: #fff;
+  }
+  
+  .google {
+    background: #db4437;
+    color: #fff;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-account-button {
+    width: 100%;
+    padding: 10px;
+    background: #3b5998;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .login-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .login-link a {
+    color: #3b5998;
+  }
+  

@@ -1,12 +1,13 @@
 import React from 'react';
-import AboutUs from './AboutUs';
+import CreateAccount from './CreateAccount';
+import './App.css';
 
 function App() {
-    return (
-        <div className="App">
-            <AboutUs />
-        </div>
-    );
+  return (
+    <div className="app">
+      <CreateAccount />
+    </div>
+  );
 }
 
 export default App;

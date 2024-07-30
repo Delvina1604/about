@@ -1,0 +1,18 @@
+.testimonial {
+    flex: 1;
+    background: url('imagee.jpg') no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .testimonial-content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 0px;
+    color: #fff;
+    text-align: center;
+  }
+  
