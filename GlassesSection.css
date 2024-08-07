@@ -1,0 +1,16 @@
+.glasses-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .glasses-item {
+    text-align: center;
+  }
+  
+  .glasses-item img {
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  

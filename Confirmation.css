@@ -1,0 +1,131 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .confirmation-page {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .confirmation-details, .how-its-done{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 45%;
+  }
+  
+  .confirmation-details h2,.how-its-done h3{
+    color: #2c3e50;
+  }
+  
+  .confirmation-info {
+    text-align: left;
+  }
+  
+  .confirmation-item {
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-item h3 {
+    margin: 0;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .steps {
+    text-align: left;
+  }
+  
+  .step {
+    margin-bottom: 20px;
+  }
+  
+  .step h4 {
+    margin: 0;
+  }
+  .App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .confirmation-page {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .confirmation-details, .how-its-done {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 45%;
+  }
+  
+  .confirmation-details h2, .how-its-done h3 {
+    color: #2c3e50;
+  }
+  
+  .confirmation-info {
+    text-align: left;
+  }
+  
+  .confirmation-item {
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-item h3 {
+    margin: 0;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .steps {
+    text-align: left;
+  }
+  
+  .step {
+    margin-bottom: 20px;
+  }
+  
+  .step h4 {
+    margin: 0;
+  }
+    
