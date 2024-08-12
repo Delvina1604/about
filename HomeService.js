@@ -26,8 +26,8 @@ const HomeService = () => {
             <h1>Eye Plus at Home</h1>
             <p>Eye Test & Frame Trial Service</p>
             <div className="rating">
-              <span>4.9</span>
-              <span>(17k)</span>
+              <span></span>
+              <span></span>
             </div>
             <div className="eligibility">
               <h2>Eye test eligibility</h2>
@@ -46,7 +46,7 @@ const HomeService = () => {
               </ul>
             </div>
             <div className="booking">
-              <div className="price">Eye Plus at Home ₹99</div>
+              <div className="price"></div>
               <button className="book-button" onClick={handleBookAppointment}>BOOK APPOINTMENT</button>
             </div>
           </div>

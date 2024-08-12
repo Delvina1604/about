@@ -63,6 +63,9 @@ const Banner = ({ title, subtitle, buttonText, imageUrl, index }) => {
     if (index === 4) { // Check if it's the 4th banner
       navigate('/homeservice');
     }
+    if (index === 2) { // Check if it's the 4th banner
+      navigate('/service');
+    }
   };
 
   return (

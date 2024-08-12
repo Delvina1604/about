@@ -6,7 +6,7 @@ function PromoBanner() {
   const navigate = useNavigate();
 
   const handleShopNowClick = () => {
-    navigate('/products');
+    navigate('/component');
   };
 
   return (

@@ -99,10 +99,10 @@ const AddressSelection = () => {
 
   return (
     <div className="address-container">
-      <header className="address-header">
+      {/* <header className="address-header">
         <img src={eye1} alt="EyeTest at Home" className="address-logo" />
         <div className="phone-number">+918068864519</div>
-      </header>
+      </header> */}
       <main className="address-main">
         <div className="address-form-container">
           <h1>Choose Address</h1>
